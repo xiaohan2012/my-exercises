@@ -1,6 +1,6 @@
 50 seconds per group ([source](https://www.youtube.com/watch?v=oUychjqfO8I))
 
-1. ![](https://github.com/xiaohan2012/my-exercises/blob/master/shoulder/gifs/shoulder1.gif =250x)
+1. ![](https://github.com/xiaohan2012/my-exercises/blob/master/shoulder/gifs/shoulder1.gif)
 
 2. ![](https://github.com/xiaohan2012/my-exercises/blob/master/shoulder/gifs/shoulder2.gif)
 
