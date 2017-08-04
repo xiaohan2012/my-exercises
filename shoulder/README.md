@@ -1,7 +1,7 @@
 50 seconds for group
 
-[figs/shoulder1.gif]
+[1](figs/shoulder1.gif)
 
-[figs/shoulder2.gif]
+[2](figs/shoulder2.gif)
 
-[figs/shoulder3.gif]
+[3](figs/shoulder3.gif)
